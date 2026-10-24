@@ -1,0 +1,26 @@
+{
+  "name": "Tank Farm Report",
+  "short_name": "Tank Report",
+  "description": "Daily Transaction Report System — Tank/Bullet-wise Reconciliation",
+  "start_url": "./app.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6a1e7a",
+  "theme_color": "#6a1e7a",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgcng9IjQyIiBmaWxsPSIjMEMxQzQ5Ii8+PHBhdGggZD0iTTQyIDE1MFY0MmgyN3YxMDhINDJ6bTQ2IDBMMTE5IDQyaDI3TDkyIDE1MEg4OHoiIGZpbGw9IiNFQzY2MDgiLz48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMiIgZmlsbD0iIzBDMUM0OSIvPjxwYXRoIGQ9Ik0xMTIgNDAwVjExMmg3MnYyODhoLTcyem0xMjIgMEwzMTcgMTEyaDcyTDIzNCA0MDBoLTB6IiBmaWxsPSIjRUM2NjA4Ii8+PC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
